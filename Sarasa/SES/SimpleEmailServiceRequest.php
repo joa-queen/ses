@@ -19,7 +19,7 @@ final class SimpleEmailServiceRequest
     {
         $this->ses = $ses;
         $this->verb = $verb;
-        $this->response = new STDClass;
+        $this->response = new \STDClass;
         $this->response->error = false;
     }
 
