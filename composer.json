@@ -1,6 +1,9 @@
 {
     "name": "sarasa/ses",
     "description": "Dan Myers' package to communicate with Amazon SES",
+    "keywords": ["SAS"],
+    "homepage": "http://github.com/joacodeviaje/sas",
+    "license": "MIT",
     "authors": [
         {
             "name": "Joaquín Miguez",
