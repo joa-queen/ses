@@ -1,0 +1,13 @@
+{
+    "name": "sarasa/ses",
+    "description": "Dan Myers' package to communicate with Amazon SES",
+    "authors": [
+        {
+            "name": "Joaquín Miguez",
+            "email": "joacodeviaje@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
