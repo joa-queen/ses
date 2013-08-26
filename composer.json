@@ -12,5 +12,8 @@
     ],
     "require": {
 
+    },
+    "autoload": {
+        "psr-0": {"Sarasa\\SES\\": ""}
     }
 }
